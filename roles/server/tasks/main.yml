@@ -7,7 +7,7 @@
       name:
       - apache2
       - mysql-server
-      - libapache2-mod-auth-mysql
+      - libapache2-mod-log-sql-mysql
       - php-mysql
       - php
       - libapache2-mod-php
